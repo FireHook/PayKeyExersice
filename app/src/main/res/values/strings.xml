@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PayKeyExersice</string>
+    <string name="api_key">b88e2a5f580b0e5f78ba79c45ef2c3fc</string>
+    <string name="network_error">Network error!</string>
+    <string name="search">Search</string>
 </resources>
